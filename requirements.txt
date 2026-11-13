@@ -1,0 +1,9 @@
+# LangChain Core
+langchain
+langchain-core
+
+# Nvidia Integration
+langchain-nvidia-ai-endpoints 
+
+# Environment Variable Management
+python-dotenv
