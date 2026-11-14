@@ -3,7 +3,12 @@ langchain
 langchain-core
 
 # Nvidia Integration
-langchain-nvidia-ai-endpoints 
+langchain-nvidia-ai-endpoints
 
 # Environment Variable Management
 python-dotenv
+
+# Web Server
+fastapi
+uvicorn[standard]
+sse-starlette
